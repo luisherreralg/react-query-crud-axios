@@ -3,37 +3,44 @@
     {
       "id": 1,
       "name": "laptop",
-      "decription": "latop gaming",
+      "description": "latop gaming",
       "price": 1000,
       "inStock": true
     },
     {
       "id": 2,
       "name": "mouse",
-      "decription": "mouse gaming",
+      "description": "mouse gaming",
       "price": 100,
       "inStock": true
     },
     {
       "id": 3,
       "name": "keyboard",
-      "decription": "keyboard gaming",
+      "description": "keyboard gaming",
       "price": 200,
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 4,
       "name": "monitor",
-      "decription": "monitor gaming",
+      "description": "monitor gaming",
       "price": 300,
-      "inStock": true
+      "inStock": false
     },
     {
       "id": 5,
       "name": "headset",
-      "decription": "headset gaming",
+      "description": "headset gaming",
       "price": 400,
-      "inStock": true
+      "inStock": false
+    },
+    {
+      "name": "Server",
+      "description": "Web Server",
+      "price": "1000",
+      "inStock": true,
+      "id": 6
     }
   ]
 }

@@ -1,7 +1,16 @@
 import React from "react";
+import Header from "./components/Header";
+import ProductForm from "./components/ProductForm";
+import Products from "./components/Products";
 
 function App() {
-  return <div>hello world</div>;
+  return (
+    <>
+      <Header />
+      <ProductForm />
+      <Products />
+    </>
+  );
 }
 
 export default App;
